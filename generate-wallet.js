@@ -19,5 +19,12 @@ wallets[newWalletName] = {
   'publicKey': publicKey,
   'privateKey': privateKey,
 };
-
+const transactions = getTransactions();
+const newTransaction = {
+  'buyerAddress': null,
+  'sellerAddress': publicKey,
+  'price':40
+}
+transactions.push(newTransaction);
+writeTransactions(transactions);
 writeWallets(wallets);
