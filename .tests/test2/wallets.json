@@ -1,1 +1,6 @@
-{}
+{
+  "me": {
+    "publicKey": "042dc36309832d42b2eccde538299875aa024178c61bf65c6fa4a3b05ae5a6741c8699b7d3536c4c8a41025bae3f71cacb",
+    "privateKey": "b21e924359b06b46ad8b58b62809a5a218d35e645c3f4098"
+  }
+}

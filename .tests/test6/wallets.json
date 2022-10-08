@@ -1,1 +1,10 @@
-{}
+{
+  "me": {
+    "publicKey": "042dc36309832d42b2eccde538299875aa024178c61bf65c6fa4a3b05ae5a6741c8699b7d3536c4c8a41025bae3f71cacb",
+    "privateKey": "b21e924359b06b46ad8b58b62809a5a218d35e645c3f4098"
+  },
+  "user_xyz123": {
+    "publicKey": "04dd8ca8beaf9b013ce560e8712bd3b7ff72521a79926ab8b4b237a301eaae73b1e5ccdf95eb8a2f76467b0707c6193cf1",
+    "privateKey": "62e8d2de9b495a474bc719160b989f6118b0baf14f2805c9"
+  }
+}
